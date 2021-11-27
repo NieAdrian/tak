@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638019609 source:c:\users\adrian\documents\prog\zgadnij liczbê\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<stdio.h>
+
