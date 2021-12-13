@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639413488 source:c:\users\adrian\documents\prog\wskaüniki\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+
