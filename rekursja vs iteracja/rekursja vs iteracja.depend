@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640711599 source:c:\users\adrian\documents\prog\rekursja vs iteracja\main.cpp
+	<iostream>
+	<time.h>
+
